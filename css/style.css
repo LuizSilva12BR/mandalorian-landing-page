@@ -189,7 +189,7 @@ section .imgBox img {
 
     .iconmenu.active {
         transition: 0.4s;
-        background-image: url(../imgs/close.png);
+        background-image: url(./imgs/close.png);
         filter: invert(1);
         background-size: 30px;
         cursor: pointer;
